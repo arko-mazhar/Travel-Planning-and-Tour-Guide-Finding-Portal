@@ -1,0 +1,1 @@
+Use merge in customer instead of join
